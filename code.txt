@@ -3,6 +3,8 @@
 int main(void)
 {
 	using namespace std;
+
 	cout << "Hello from collaborator";
+	cout << "Hello from me";
 	return 0;
 }
