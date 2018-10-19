@@ -1,4 +1,6 @@
-機能1の関数
-追加１
-修正１
-機能２
+#include<iostream>
+
+int main(void)
+{
+	return 0;
+}
